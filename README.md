@@ -8,7 +8,7 @@ https://modrinth.com/plugin/rankplugin
 COMPILED WITH MAVEN.
 
 
-(https://cdn.modrinth.com/data/cached_images/d59d8b6d21e817d19da6fe18bc3ba4c3a3d434f5.png)!(https://cdn.modrinth.com/data/cached_images/e59229c26ea582e889892fa4627d94c345909ab0.png)📌 RankPlugin – PNG Rank Display
+
 
 RankPlugin lets you display player ranks as PNG icons from a resource pack in both chat and the tab list. Ranks are defined in ranks.yml, can be assigned via command, or selected through a GUI.
 
