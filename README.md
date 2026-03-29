@@ -3,3 +3,6 @@ Hello, I'm RBG, a Turkish mod and plugin developer. I created this plugin a year
 
 For those who don't want to bother and just want to download the existing version
 https://modrinth.com/plugin/rankplugin
+
+
+MAVEN İLE DERLENMİŞTİR
