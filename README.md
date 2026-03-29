@@ -5,4 +5,4 @@ For those who don't want to bother and just want to download the existing versio
 https://modrinth.com/plugin/rankplugin
 
 
-MAVEN İLE DERLENMİŞTİR
+COMPILED WITH MAVEN.
