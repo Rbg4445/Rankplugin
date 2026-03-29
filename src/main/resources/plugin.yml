@@ -1,0 +1,13 @@
+name: RankPlugin
+main: me.rbg.rankplugin.RankPlugin
+version: 1.2.0
+api-version: 1.20
+commands:
+  rankgui:
+    description: Open rank GUI
+  setrank:
+    description: Set player rank
+permissions:
+  rankplugin.setrank:
+    description: Allows setting ranks
+    default: op

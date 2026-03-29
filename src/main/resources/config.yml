@@ -1,0 +1,3 @@
+icon:
+  height: 8     # İkonun yüksekliği (bunu büyütürsen ikon büyür)
+  ascent: 8     # İkonun dikey hizalaması (yukarı-aşağı kayma)
